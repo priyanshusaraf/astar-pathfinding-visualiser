@@ -1,0 +1,2 @@
+# astar-pathfinding-visualiser
+this is a visualisation project made in python. the algorithm used in this project might be used in uber for finding the shortest path between point a and point b, with obstructions in it. firstly, the user has to place the nodes a and b, and he can simply do that by clicking any square in the grid. then, the user has to draw the obstructions, and finally, hit space bar on his machine
